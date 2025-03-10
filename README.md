@@ -23,6 +23,6 @@ _**ANDREW FLAMING** : Chief Technical Architect
 _1. **Task One** Project Understanding_  
 _2. **Task Two** Data Cleaning & Modeling_  
 _3. **Task Three** Data Vizualization & Storytelling_  
-_4. **Task Four** Present to the Clint_  
+_4. **Task Four** Present to the Client_  
   
 
