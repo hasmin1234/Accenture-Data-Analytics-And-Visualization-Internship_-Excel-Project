@@ -6,4 +6,4 @@ _**Social Buzz** receives 100,000 daily posts totaling 36,500,000 anually. But w
 # THE ANALYTICS TEAM  
 _**ANDREW FLAMING** : Chief Technical Architect  
 **MARCUS ROMPTON** : Senior Principle  
-**HASMIN AKTAR MAZUMDER(Myself)** : Data Anlyst
+**HASMIN AKTAR MAZUMDER(Myself)** : Data Anlyst_
