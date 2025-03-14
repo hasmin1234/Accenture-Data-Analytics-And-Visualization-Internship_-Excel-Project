@@ -7,7 +7,9 @@ _**Social Buzz** receives 100,000 daily posts totaling 36,500,000 anually. But w
 # RAW DATASET 
 Reaction.Csv  
 Reactions Types.Csv  
-Content.Csv
+Content.Csv  
+## RERPORTS AND PRESENTATION   
+_[Presentation](https://1drv.ms/x/c/ad42e42ba74a31af/EY7oOuw2lbxKu9PCRJmTDWwBnvnbBPkx8GkmS7VSvFn1Hw?e=CqNwUU)_  
 
 # SKILLS  
 _Teamwork  
